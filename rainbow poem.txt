@@ -12,6 +12,5 @@ uu ppkk
 good unicorn
 ..ii
 Red
-;;l
 This is a beautiful poem
 well i will commit corrections in this 
