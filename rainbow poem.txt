@@ -2,6 +2,7 @@ The rainbow poem
 violet
 Indigo
 Blue 
+Green
 Orange 
 Red
 This is a beautiful poem
